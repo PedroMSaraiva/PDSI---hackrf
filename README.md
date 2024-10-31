@@ -5,6 +5,7 @@
 - Francisco Gandala - *gandala@discente.ufg.br*
 - Lucas Arruda - *lucas_arruda@discente.ufg.br*
 - Carlos Henrique - *carlosbatista@discente.ufg.br*
+- Daniel Pinheiro - *danielpinheirohs@gmail.com*
 
 ### Resume:
 
